@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KampIntro", "KampIntro\KampIntro.csproj", "{6860E646-F655-448B-92C1-08B69BE0C1EE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Donguler", "Donguler\Donguler.csproj", "{0A46602B-1F82-4AC5-BCE6-87DCC91037AB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{FF4D1AB1-D9E4-492A-BA26-6A39D511529E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{A027D4C3-F83B-41CC-9D16-02930A00BEE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematik", "Matematik\Matematik.csproj", "{CF55E272-8A30-417F-8B5A-0DDB19CA8013}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{948DD2B3-A7F5-4BD1-9092-5D4BF0A38EC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6860E646-F655-448B-92C1-08B69BE0C1EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6860E646-F655-448B-92C1-08B69BE0C1EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6860E646-F655-448B-92C1-08B69BE0C1EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6860E646-F655-448B-92C1-08B69BE0C1EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A46602B-1F82-4AC5-BCE6-87DCC91037AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A46602B-1F82-4AC5-BCE6-87DCC91037AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A46602B-1F82-4AC5-BCE6-87DCC91037AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A46602B-1F82-4AC5-BCE6-87DCC91037AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF4D1AB1-D9E4-492A-BA26-6A39D511529E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF4D1AB1-D9E4-492A-BA26-6A39D511529E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF4D1AB1-D9E4-492A-BA26-6A39D511529E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF4D1AB1-D9E4-492A-BA26-6A39D511529E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A027D4C3-F83B-41CC-9D16-02930A00BEE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A027D4C3-F83B-41CC-9D16-02930A00BEE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A027D4C3-F83B-41CC-9D16-02930A00BEE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A027D4C3-F83B-41CC-9D16-02930A00BEE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF55E272-8A30-417F-8B5A-0DDB19CA8013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF55E272-8A30-417F-8B5A-0DDB19CA8013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF55E272-8A30-417F-8B5A-0DDB19CA8013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF55E272-8A30-417F-8B5A-0DDB19CA8013}.Release|Any CPU.Build.0 = Release|Any CPU
+		{948DD2B3-A7F5-4BD1-9092-5D4BF0A38EC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{948DD2B3-A7F5-4BD1-9092-5D4BF0A38EC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{948DD2B3-A7F5-4BD1-9092-5D4BF0A38EC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{948DD2B3-A7F5-4BD1-9092-5D4BF0A38EC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D62C2422-5B57-4FF9-841A-E6F6311F76A2}
+	EndGlobalSection
+EndGlobal
