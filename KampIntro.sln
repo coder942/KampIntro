@@ -19,7 +19,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{A480F3A2-CFC4-46F6-B8FA-F9C89A307399}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "genericsİntro", "genericsİntro\genericsİntro.csproj", "{07F6016C-611C-4AE1-854D-A9112F76DC10}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genericsİntro", "genericsİntro\Genericsİntro.csproj", "{07F6016C-611C-4AE1-854D-A9112F76DC10}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
